@@ -12,6 +12,7 @@ This covers
 9. pointers
 10. structures
 11. maps
-12. strings etc.
+12. strings
+13. Concurrency using goroutines, channel communication etc.
 
 **Happy coding!!!**
