@@ -13,6 +13,7 @@ This covers
 10. structures
 11. maps
 12. strings
-13. Concurrency using goroutines, channel communication etc.
+13. json marshalling & unmarshalling
+14. Concurrency using goroutines, channel communication etc.
 
 **Happy coding!!!**
